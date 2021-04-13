@@ -12,7 +12,6 @@ namespace SeeTicketsWebDataScraper
     {
         static async Task Main(string[] args)
         {
-
            var tasks = new List<Task<List<SeeTicketUserDataSet>>>();
 
             var url = UrlConnection.BaseUrl;
