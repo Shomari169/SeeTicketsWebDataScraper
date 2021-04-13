@@ -10,11 +10,7 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
-<<<<<<< HEAD
-=======
   <ItemGroup>
     <Folder Include="Engine\" />
   </ItemGroup>
-
->>>>>>> 7d50420bd64cbd2a8e678d5e7bfe47f8ab988d5f
 </Project>
